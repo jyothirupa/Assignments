@@ -75,15 +75,6 @@ for key, value in sortedList:
     elif value[0]//3 > 50:
         print(key, " ", value[0], " C")
     else:
-        print(key, " ", value[0], " D")
-    
-
-    
-        
-
-    
-
-    
-    
+        print(key, " ", value[0], " D")    
     
     
